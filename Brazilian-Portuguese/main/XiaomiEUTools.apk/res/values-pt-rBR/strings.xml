@@ -26,7 +26,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="power_title">Energia</string>
     <string name="ram_desc">Estatísticas de uso de memória que permitem localizar qual processo utiliza mais RAM.</string>
-    <string name="ram_title">Memória RAM utilizida</string>
+    <string name="ram_title">Memória RAM utilizada</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="space_title">Segundo espaço</string>

@@ -1300,6 +1300,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="location_mode_battery_saving_description">Usar Wi-Fi e redes móveis para determinar a localização</string>
     <string name="location_mode_battery_saving_title">Economia de bateria</string>
     <string name="location_mode_high_accuracy_description">Usar GPS, Wi-Fi e redes móveis para determinar a localização</string>
+    <string name="location_mode_high_accuracy_title">Alta precisão</string>
     <string name="location_neighborhood_level">Permitir que apps usem redes móveis e Wi-Fi para estimar a sua localização</string>
     <string name="location_network_based">Wi-Fi &amp; rede móvel</string>
     <string name="lock_screen_notifications_summary_hide">Mostrar notificações mas ocultar conteúdos</string>
@@ -2912,6 +2913,7 @@ Toque em"<b> Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponível</string>
     <string name="xiaomi_router_notif_summary">Notificar quando um Mi Router estiver disponível</string>
     <string name="xiaomi_router_notif_title">Notificações do Mi Router</string>
+    <string name="xspace">Apps clonados</string>
     <string name="zen_mode_alarm_use">Sons</string>
     <string name="zen_mode_events">Eventos e lembretes</string>
     <string name="zen_mode_from_call">"Chamadas de "</string>
